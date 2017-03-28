@@ -1,2 +1,2 @@
 # ImageStrip
-MacOS Finder Services for combining selected images into height/width-uniform horizontal/vertical strips.
+MacOS Finder Service for combining selected images into height-uniform horizontal JPEG image strip.
